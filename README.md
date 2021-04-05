@@ -1,6 +1,6 @@
 # opendb-api-calls
 
-Python scripts accessing the endpoints of the open source, community powered Bundesliga API of www.openligadb.de.
+Python scripts accessing the endpoints of the open source, community powered Bundesliga API of www.openligadb.de (see: https://github.com/OpenLigaDB/OpenLigaDB-Samples). Scripts where used for a small fantasy manager project.
 
 # obenligadb-fixtures.py
 
